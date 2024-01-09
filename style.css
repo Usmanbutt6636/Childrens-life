@@ -1,0 +1,176 @@
+body {
+
+    font-family: 'Potta One', cursive;
+    padding: 0px;
+    margin: 0px;
+    background-color: lightcoral;
+    background: url(/PROJECT7/img/jessica-lewis--fP2-cL-6_U-unsplash.jpg);
+    background-size: cover;
+}
+
+.container1 {
+    color: white;
+    display: flex;
+    background-color: darkmagenta;
+    height: 50px;
+
+}
+
+.fa {
+    color: white;
+   
+
+}
+.right .fa {
+    color: white;
+    border: 2px solid;
+    border-radius: 15px;
+
+} 
+
+.left {
+    font-size: 17px;
+    padding: 0px 11px;
+    margin: 8px 68px;
+}
+
+.mid {
+    font-size: 18px;
+    margin: 3px 1px;
+    padding: 7px 7px;
+}
+
+.right {
+
+    position: absolute;
+    right: 100px;
+    padding: 2px 4px;
+    margin: 13px 3px;
+
+}
+
+.right a {
+    font-size: 22px;
+    text-decoration: none;
+    padding: 2px 6px;
+    margin: -3px 6px;
+}
+
+.container2 {
+    background-color: white;
+    color: rgb(5, 5, 5);
+    height: 105px;
+    display: flex;
+}
+
+.name {
+
+
+    font-family: 'Rubik Gemstones', cursive;
+
+
+    padding: 8px 13px;
+    margin: -1px 76px;
+    font-size: 40px;
+    width: 23px;
+    height: 23px;
+}
+
+.navbar {
+   
+    display: flex;
+    
+    margin: 33px 480px;
+    
+}
+
+.navbar li {
+
+    padding: 5px 17px;
+    text-decoration: none;
+    text-align: center;
+    color: black
+}
+
+.btn {
+    width: 118px;
+    height: 30px;
+    background-color: #ff6b34;
+    border-radius: 21px;
+    color: white;
+
+}
+
+.btn:hover {
+    background-color: gray;
+}
+
+.navbar li:hover,
+.navbar li a.active
+{
+    text-decoration: underline;
+    color: red;
+    cursor: pointer;
+}
+    
+
+.container3 {
+     background-image:url(/jessica-lewis--fP2-cL-6_U-unsplash.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+    
+
+    /* background-color: rgb(208 11 97 / 64%);  */
+    height: 600px;
+
+    text-align: center;
+    justify-content: center;
+
+}
+
+.head {
+    font-size: 4rem;
+    width: 917px;
+    color: #ffc200;
+    margin-top: 27px;
+    padding-top: 250px;
+    margin: 0px auto;
+}
+
+.p {
+    font-size: 17px;
+    padding-left: 300px;
+    width: 950px;
+    color: rgb(0, 0, 0);
+
+}
+
+.kami {
+    padding: 12px;
+
+    margin: auto;
+    display: block;
+
+}
+
+.kami input {
+    border-radius: 27px;
+    width: 413px;
+    height: 37px;
+    padding: 5px;
+}
+
+.btn11 {
+    border-radius: 32px;
+    width: 33px;
+    height: 43px;
+    background-color: #96989900;
+}
+
+li {
+    list-style: none;
+}
+.material-icons{
+    padding-top:12px ;
+}
